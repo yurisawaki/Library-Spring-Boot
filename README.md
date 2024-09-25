@@ -11,12 +11,18 @@ O projeto tem ênfase em back-end, tendo o front-end apenas para fins de visuali
 - **H2 Database**: Banco de dados em memória para fins de desenvolvimento e teste.
 - **HTML/CSS/JavaScript**: Para o front-end.
 
+
 ## Funcionalidades
 
 - Adicionar livros à biblioteca.
 - visualizar todos os livros disponíveis.
 - Deletar livros da biblioteca.
 - Modificar os livros da biblioteca
+
+- ## Capturas de Tela
+
+
+![Página Web](C:\Users\yuris\Downloads\biblioteca.png)
 
 ## Pré-requisitos
 

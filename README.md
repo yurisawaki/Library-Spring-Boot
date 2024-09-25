@@ -19,11 +19,6 @@ O projeto tem ênfase em back-end, tendo o front-end apenas para fins de visuali
 - Deletar livros da biblioteca.
 - Modificar os livros da biblioteca
 
-- ## Capturas de Tela
-
-
-![Página Web](C:\Users\yuris\Downloads\biblioteca.png)
-
 ## Pré-requisitos
 
 - Java 11 ou superior.
